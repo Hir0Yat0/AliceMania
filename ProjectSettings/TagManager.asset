@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - LogicScripts
+  - Platforms1
+  - Enemy1
+  - Bosses1
+  - Projectiles1
+  - Projectiles2
+  - Alice1
+  - TP_Points1
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Birdkun177
+  - Water
+  - UI
+  - platform1
+  - background1
+  - ladders1
+  - foregrounds1
+  - projectiles1
+  - projectiles2
+  - channel1
+  - channel2
+  - textbubble1
+  - textbubble2
+  - eventtrigger1
+  - Alice1
+  - TP_Points1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background1
+    uniqueID: 890963889
+    locked: 0
+  - name: Projectiles1
+    uniqueID: 1320095933
+    locked: 0
+  - name: Platform1
+    uniqueID: 3092299557
+    locked: 0
+  - name: Accessories1
+    uniqueID: 3379468029
+    locked: 0
+  - name: Channel1
+    uniqueID: 2153055641
+    locked: 0
+  - name: Channel2
+    uniqueID: 2942459823
+    locked: 0
+  - name: Alice1
+    uniqueID: 3269832827
+    locked: 0
+  - name: Players1
+    uniqueID: 1659028945
+    locked: 0
+  - name: TextBubble1
+    uniqueID: 2626056125
+    locked: 0
+  - name: TextBubble2
+    uniqueID: 620858297
+    locked: 0
+  - name: Foreground1
+    uniqueID: 2158179989
+    locked: 0

@@ -1,0 +1,65 @@
+.button-style {
+    font-size: 120px;
+    background-color: rgb(53, 98, 192);
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    transition-property: initial;
+    transition-duration: 1s 1s 0s;
+    transition-timing-function: ease-in ease ease;
+    transition-delay: 0.5s 0s 0s;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    top: 50%;
+}
+
+.button-style:hover {
+    font-size: 120px;
+    background-color: rgb(37, 72, 144);
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    transition-property: initial;
+    transition-duration: 1s 1s 0s;
+    transition-timing-function: ease-in ease ease;
+    transition-delay: 0.5s 0s 0s;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    top: 50%;
+}
+
+.button-style:active {
+    font-size: 120px;
+    background-color: rgb(15, 52, 128);
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color: rgb(255, 255, 255);
+    border-bottom-color: rgb(255, 255, 255);
+    transition-property: initial;
+    transition-duration: 1s 1s 0s;
+    transition-timing-function: ease-in ease ease;
+    transition-delay: 0.5s 0s 0s;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    top: 50%;
+}
